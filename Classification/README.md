@@ -12,3 +12,5 @@ For this we will use the torch.nn.Sequential
 | **Output activation** | Sigmoid (`torch.sigmoid` in PyTorch) | Softmax (`torch.softmax` in PyTorch) |
 | **Loss function** | Binary crossentropy (`torch.nn.BCELoss` in PyTorch) | Cross entropy (`torch.nn.CrossEntropyLoss` in PyTorch) |
 | **Optimizer** | SGD (stochastic gradient descent), Adam (see `torch.optim` for more options) | Same as binary classification |
+
+
