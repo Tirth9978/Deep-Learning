@@ -19,7 +19,7 @@ Or
 
 # Computer Vision Libarary : 
 1. `torchvision` 
-2. `torch.datasets` : Gets datasets and data function here 
+2. `torchvision.datasets` : Gets datasets and data function here 
 3. `torchvision.models` : To get pre-Trained models . You can use it for own problem 
 4. `torchvision.transforms` : Functions for manuplating your vision data which is the best for our models comverting into numbers 
 5. `torch.utils.data.Dataset` : Base dataset class for pytorch
